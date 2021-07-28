@@ -7,13 +7,15 @@ tags:
   ['guide']
 ---
 
+## Thank you
+
 Thank you for using the theme. If you want to see an example post go [here](posts/2021-1-17-installing-hyvor/). [Download the theme](https://github.com/smolcodes/twentytwenyonetheme)
 
 ## Mathjax
 
 To use mathjax, simply put your math between `\\(...\\)` for inline code and between `$$...$$` for free standing code. **IMPORTANT** do not include the back ticks!
 
-`\\(ax^2 + bx + c = 0\\)` yields \\(z = x + y\\) And ` $$ ax^2 + bx + c = 0 $$ ` gives. 
+`\\(ax^2 + bx + c = 0\\)` yields \\(z = x + y\\) And ` $$ ax^2 + bx + c = 0 $$ ` gives.
 
 >$$ ax^2 + bx + c = 0 $$
 
@@ -35,25 +37,25 @@ _______
 put by the colon callout.
 :::
 
-::: callout-yellow 
+::: callout-yellow
 ### Yellow Callout
 _______
 This is a yellow callout. Put callout-yellow by the colon
 :::
 
-::: callout-green 
+::: callout-green
 ### Green Callout
 _______
 This is a green callout. Put callout-green by the colon
 :::
 
-::: callout-pink 
+::: callout-pink
 ### Pink Callout
 _______
 This is a pink callout. Put callout-pink by the colon
 :::
 
-::: callout-purple 
+::: callout-purple
 ### purple Callout
 _______
 This is a purple callout. Put callout-purple by the colon
@@ -76,9 +78,9 @@ This is a red callout. Put warning by the colon
 ```html
 {% raw %}{% Image "Image URL", "Image description" %}{% endraw %}
 ```
-This short code will make your images load faster and is responsive. You can use it in your markdown instead of`[Image Description](image url)`. 
+This short code will make your images load faster and is responsive. You can use it in your markdown instead of`[Image Description](image url)`.
 
-## 
+##
 ## Hyvor
 
 You must have a Hyvor account to use this feature. In sr/_includes/layouts open post.njk and look for
@@ -115,4 +117,3 @@ If you have questions or advice don't hesitate to talk to me on [twiiter](https:
 Thank you 😊
 ____
 [Image by Nadi Boradina](https://unsplash.com/photos/gETBUi_oRgQ)
-
